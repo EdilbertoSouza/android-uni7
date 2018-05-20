@@ -32,22 +32,26 @@
             android:id="@+id/bt7"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="7"/>
+            android:text="7"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/bt8"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="8"/>
+            android:text="8"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/bt9"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="9"/>
+            android:text="9"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/btDiv"
             android:layout_width="64dp"
             android:layout_height="47dp"
-            android:text="/"/>
+            android:text="/"
+            android:textSize="18sp"/>
     </LinearLayout>
 
     <LinearLayout
@@ -61,22 +65,26 @@
             android:id="@+id/bt4"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="4"/>
+            android:text="4"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/bt5"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="5"/>
+            android:text="5"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/bt6"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="6"/>
+            android:text="6"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/btMul"
             android:layout_width="64dp"
             android:layout_height="47dp"
-            android:text="*"/>
+            android:text="*"
+            android:textSize="18sp"/>
     </LinearLayout>
 
     <LinearLayout
@@ -90,22 +98,26 @@
             android:id="@+id/bt1"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="1"/>
+            android:text="1"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/bt2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="2"/>
+            android:text="2"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/bt3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="3"/>
+            android:text="3"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/btSub"
             android:layout_width="64dp"
             android:layout_height="47dp"
-            android:text="-"/>
+            android:text="-"
+            android:textSize="18sp"/>
     </LinearLayout>
 
     <LinearLayout
@@ -119,22 +131,26 @@
             android:id="@+id/bt0"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="0"/>
+            android:text="0"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/btCle"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="C"/>
+            android:text="C"
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/btIgu"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="="/>
+            android:text="="
+            android:textSize="18sp"/>
         <Button
             android:id="@+id/btAdi"
             android:layout_width="64dp"
             android:layout_height="47dp"
-            android:text="+"/>
+            android:text="+"
+            android:textSize="18sp"/>
     </LinearLayout>
 
     <LinearLayout
